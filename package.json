@@ -1,7 +1,7 @@
 {
   "name": "indian-states-cities-geolocation",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Precise geolocation data for all Indian states and districts as par with 2026 data",
   "license": "ISC",
   "author": "Manas Bhatia manasbhatia724@gmail.com",
   "type": "module",
@@ -12,5 +12,16 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/manas-bhatia/indian-states-cities-geolocation.git"
-  }
+  },
+  "keywords": [
+    "india",
+    "indian-states",
+    "districts",
+    "cities",
+    "geolocation",
+    "coordinates",
+    "latitude",
+    "longitude",
+    "maps"
+  ]
 }
