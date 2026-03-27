@@ -1,4 +1,4 @@
-# indian-states-and-cities-geolocation
+# Indian States and Cities geolocation
 
 A comprehensive, lightweight, and offline package providing precise geolocation data (latitude and longitude) for all Indian states and their respective districts/cities. 
 
