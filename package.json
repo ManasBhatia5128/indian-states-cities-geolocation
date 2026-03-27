@@ -1,0 +1,12 @@
+{
+  "name": "indian-states-cities-geolocation",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Manas Bhatia manasbhatia724@gmail.com",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
